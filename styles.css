@@ -120,6 +120,7 @@ footer a{text-decoration:none}
 }
 .contact-card,.form-card{background:white;padding:34px;border:1px solid var(--line)}
 .map-placeholder{height:230px;background:#e8eee4;display:grid;place-items:center;color:#69766e;text-align:center;margin-top:24px}
+.contact-map{width:100%;height:auto;margin-top:24px;border:1px solid var(--line)}
 form{display:flex;flex-direction:column;gap:9px}
 label{font-weight:700;font-size:.84rem;margin-top:6px}
 input,textarea{font:inherit;padding:12px;border:1px solid #c9d2c5;background:#fff}
